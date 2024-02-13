@@ -34,4 +34,4 @@ Abaixo o print prompt e em seguida a resposta gerada: **traduza isso para java**
 - ![Resposta gerada](outputs/c-codigo.02.03.jpg)
 ## Insights Principais
 
-- As IAs generativas ajudam tanto em tarefas cotidianas com em atividades criativas
+- As IAs generativas ajudam tanto em tarefas cotidianas como em atividades criativas
